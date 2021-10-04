@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Plat Haitien, Livraison 91 92 94 Paris, Traiteur,
+     menus poulet halal cabri halal poissons, gryio. Diri Djon Djon banane Pézé Royal-Soda">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="drapeau_logo_onglet.jpg">
+    <title>HAITIAN GOOD FOOD</title>
+</head>
+
+<body>
+    <header>
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="titre">HAITIAN GOOD FOOD</h1>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-6">
+                <p class="livraison text-center">Livraison: 91 92 94 Paris</p>
+            </div>
+            <div class="col-6">
+
+                <div class="text-center">
+                    <p class="phone">✆ 06.59.38.81.62</p>
+
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="horaires text-center">
+            <p>🕖 Vend-Sam-Dim:19h-00h</p>
+        </div>
+
+    </header>
+    <br><br>
+    <!-- mise en place des card design designant les plats -->
+    <div class="row">
+        <h2 class="col-12 text-center ss-titre">Nos menus </h2>
+        <br>
+        <br>
+        <div class="col-12"></div>
+        <br><br>
+        <div class="col-1"></div>
+        <div class=" card1 col-4">
+            <div class="card">
+                <img src="poulet.jpeg" style="max-width: 100%;" class="card-img-top" alt="Méditation">
+            </div>
+            <div class="card-body">
+                <h2 class="card-title text-center">Menu Poulet</h2>
+                <ul class="card-list">
+                    <li>Diri Djon Djon</li>
+                    <li>Poulet</li>
+                    <li>Banane Pézé x4 </li>
+                    <li>Pikliz</li>
+                    <li>Royal Soda (au choix)</li>
+                </ul>
+                <p class="prix align-text-bottom d-flex flex-row-reverse">10€</p>
+            </div>
+        </div>
+        <div class="col-2"></div>
+        <div class="card2 col-4">
+            <div class="card">
+                <img src="gryio.jpeg" style="max-width: 100%;" class="card-img-top" alt="Méditation">
+            </div>
+            <div class="card-body">
+                <h2 class="card-title text-center">Menu Gryio</h2>
+                <ul class="card-list">
+                    <li>Diri Djon Djon</li>
+                    <li>Gryio (porc)</li>
+                    <li>Banane Pézé x4 </li>
+                    <li>Pikliz</li>
+                    <li>Royal Soda (au choix)</li>
+                </ul>
+                <p class="prix align-text-bottom d-flex flex-row-reverse">10€</p>
+            </div>
+        </div>
+        <div class="col-1"></div>
+
+    </div>
+    <br><br><br>
+    <div class="row">
+
+        <div class="col-1"></div>
+        <div class="card3 col-4">
+            <div class="card">
+                <img src="menu cabri.jpeg" style="max-width: 100%;" class="card-img-top" alt="Menu poisson">
+            </div>
+            <div class="card-body">
+                <h2 class="card-title text-center">Menu Poisson</h2>
+                <ul class="card-list">
+                    <li>Diri Djon Djon</li>
+                    <li>Poisson frit</li>
+                    <li>Banane Pézé x4 </li>
+                    <li>Pikliz</li>
+                    <li>Royal Soda (au choix)</li>
+                </ul>
+                <p class="prix align-text-bottom d-flex flex-row-reverse">12€</p>
+            </div>
+        </div>
+        <div class="col-2"></div>
+        <div class="card4 col-4">
+            <div class="card">
+                <img src="menu cabri.jpeg" style="max-width: 100%;" class="card-img-top" alt="menu cabri">
+            </div>
+            <div class="card-body">
+                <h2 class="card-title text-center">Menu Cabri</h2>
+                <ul class="card-list">
+                    <li>Diri Djon Djon</li>
+                    <li>Cabri</li>
+                    <li>Banane Pézé x4 </li>
+                    <li>Pikliz</li>
+                    <li>Royal Soda (au choix)</li>
+                </ul>
+                <p class="prix align-text-bottom d-flex flex-row-reverse">15€</p>
+            </div>
+        </div>
+        <div class="col-1"></div>
+
+    </div>
+    <br><br><br>
+
+    <div class="row">
+        <div class="col-12 d-flex justify-content-around">
+            <h3>Suppléments</h3>
+            <h3>Boissons</h3>
+        </div>
+
+        <br>
+
+    </div>
+    <div class="row">
+        <div class="col-1"></div>
+        <div class="card5 col-4">
+
+
+            <div class="d-flex justify-content-between">
+                <p>Djiri Djon Djon</p>
+                <p>3€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Djiri Djon Djon Krevet</p>
+                <p>4€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Cuisse de Poulet</p>
+                <p>5€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Haut de Cuisse</p>
+                <p>3€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Pilon</p>
+                <p>2€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Gryio</p>
+                <p>5€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Poisson</p>
+                <p>6€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Cabri</p>
+                <p>8€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Banane Pézé</p>
+                <p>2€</p>
+            </div>
+            <div class="d-flex justify-content-between">
+                <p>Pikliz</p>
+                <p>2€</p>
+            </div>
+        </div>
+        <div class="col-2"></div>
+        <div class="card6 col-4">
+
+
+            <div class="d-flex justify-content-between">
+                <p>ROYAL SODA</p>
+
+            </div>
+            <p>Kampagne</p>
+            <p>Grenadine</p>
+            <p>Banane</p>
+            <p>Ananas</p>
+            <p>Coco</p>
+            <p>Guarana</p>
+
+            <div>
+                <p class="align-text-bottom d-flex flex-row-reverse">2,5€</p>
+            </div>
+        </div>
+
+    </div>
+
+    <br><br><br><br>
+    <footer>
+        <div class="row">
+            <div class="col-12 text-center">
+                <div id="widget ">
+                    <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a
+                            href="https://www.instagram.com/Haitian_good_food/" target="_blank" class="btn" id="b"><i
+                                class="fa fa-instagram ft14"></i>
+                            <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+                            <span class="label instagram" id="l">Visitez la page Haitian_good_food</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-12 text-center">
+                <p class="snapchat">👻 haitiangoodfood</p>
+            </div>
+        </div>
+        <br><br>
+
+    </footer>
+
+
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
